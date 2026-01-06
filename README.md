@@ -160,3 +160,29 @@ The solution implements a medallion architecture pattern for data processing:
 
 ## License
 This project is developed for educational purposes as part of capstone program.
+
+## Output Screenshots 
+# Complete Pipeline Execution
+<img width="1044" height="704" alt="image" src="https://github.com/user-attachments/assets/7f8e3f0c-4dd6-41bf-b9e8-37a37377b2a6" />
+# PySpark Distributed Analytics
+<img width="1104" height="917" alt="image" src="https://github.com/user-attachments/assets/5c0f81b9-0f7e-441d-9c96-f068394a8aec" />
+<img width="1265" height="252" alt="image" src="https://github.com/user-attachments/assets/9caee6c4-44e8-40a7-b986-99bf2818ee25" />
+
+# Automated Scheduling
+<img width="1186" height="194" alt="image" src="https://github.com/user-attachments/assets/ee4b530a-c9c4-4137-abe1-a5b0eb7e5aed" />
+
+# Power BI Data Export
+<img width="1213" height="422" alt="image" src="https://github.com/user-attachments/assets/cac45e7f-2208-497b-91cd-41386947ec70" />
+
+### Power BI Dashboards 
+# Executive Summary
+<img width="1222" height="699" alt="image" src="https://github.com/user-attachments/assets/569f4e3a-fbd3-4ec7-b864-d26393b968d7" />
+# Regional Analysis
+<img width="1220" height="698" alt="image" src="https://github.com/user-attachments/assets/09461125-1de3-4206-8442-5a5bd9659eaa" />
+# School Performance
+<img width="1225" height="700" alt="image" src="https://github.com/user-attachments/assets/4c462e7a-8a14-4b50-a563-72345ca9904f" />
+# Demographics
+<img width="1226" height="699" alt="image" src="https://github.com/user-attachments/assets/73f12fbe-55b6-4a80-9cab-652d212473ab" />
+
+
+
