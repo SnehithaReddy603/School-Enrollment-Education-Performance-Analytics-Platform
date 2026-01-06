@@ -154,10 +154,9 @@ The solution implements a medallion architecture pattern for data processing:
 - Integration with student information systems
 
 ## Project Team
-- **Developer**: [Student Name]
-- **Institution**: [University/College Name]
+- **Developer**: K.Snehitha
+- **Institution**: Vellore Institute Of Technology
 - **Project Type**: Capstone Project
-- **Duration**: [Project Timeline]
 
 ## License
-This project is developed for educational purposes as part of an academic capstone program.
+This project is developed for educational purposes as part of capstone program.
